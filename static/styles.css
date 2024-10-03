@@ -1,0 +1,10 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+h1, h2 {
+    color: #4CAF50;
+}
+.stButton>button {
+    background-color: #4CAF50;
+    color: white;
+}
